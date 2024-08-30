@@ -5,9 +5,9 @@
             "email": "mpmathew@ecloudcontrol.com",
             "group": "data-engineering"
         },
-        "https://github.com/mpmathew/postgres13-master": {
-            "path": "/appz/home/airflow/dags/postgres13-master",
-            "branch": "master",
+        "https://github.com/mpmathew/jaffle_shop": {
+            "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
+            "branch": "main",
             "email": ["mpmathew+test@ecloudcontrol.com", "mpmathew@ecloudcontrol.com"],
             "group": "test"
         }
