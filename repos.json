@@ -5,6 +5,12 @@
             "email": "mpmathew@ecloudcontrol.com",
             "group": "data-engineering"
         },
+        "https://github.com/mpmathew/airflow_dags": {
+            "path": "/appz/home/airflow/dags/airflow_dags_duplicate",
+            "branch": "main",
+            "email": "mpmathew@ecloudcontrol.com",
+            "group": "data-engineering"
+        },
         "https://github.com/mpmathew/jaffle_shop": {
             "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
             "branch": "main",
