@@ -8,7 +8,7 @@
         "https://github.com/mpmathew/jaffle_shop": {
             "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
             "branch": "main",
-            "email": ["mpmathew+test@ecloudcontrol.com", "mpmathew@ecloudcontrol.com", "mpmathew+alt@ecloudcontrol.com"],
+            "email": ["mpmathew+test@ecloudcontrol.com", "mpmathew@ecloudcontrol.com"],
             "group": "test"
         }
 }
