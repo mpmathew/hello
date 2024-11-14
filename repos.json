@@ -2,7 +2,7 @@
         "airflow_dags": {
             "path": "/appz/home/airflow/dags/airflow_dags",
             "branch": "main",
-            "email": ["mpmathew@ecloudcontrol.com","asurendran@ecloudcontrol.com "]
+            "email": ["mpmathew@ecloudcontrol.com","asurendran@ecloudcontrol.com "],
             "group": "data-engineering"
         },
         "https://github.com/mpmathew/jaffle_shop": {
