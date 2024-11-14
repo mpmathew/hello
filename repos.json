@@ -10,5 +10,11 @@
             "branch": "main",
             "email": ["mpmathew+test@ecloudcontrol.com"],
             "group": "test"
+        },
+        "https://github.com/mpmathew/airflow_sample": {
+            "path": "/appz/home/airflow/dags/airflow_sample",
+            "branch": "main",
+            "email": ["mpmathew+test@ecloudcontrol.com"],
+            "group": "data-engineering"
         }
 }
